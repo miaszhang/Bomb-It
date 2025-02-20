@@ -1,3 +1,4 @@
+15-112 term project
 # Bomb-It
 Description of my project:
 The name of my project is "bomb it". This is a game similar to the "bomberman" game.
